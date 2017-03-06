@@ -1,0 +1,8 @@
+Q1 Whats the differences between a Thread and a Process?
+
+
+From Stack overflow: 
+Threads within the same process share the same address space, whereas different processes do not. 
+
+
+Q2 How do you measure the time spent in a context switch? 
